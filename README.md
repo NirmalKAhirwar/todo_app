@@ -45,7 +45,7 @@ backend/
 
    ```sh
    git clone https://github.com/NirmalKAhirwar/todo_app.git
-   cd todo-app/backend
+   cd todo_app/backend
    ```
 
 2. **Install Dependencies**
